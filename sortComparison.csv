@@ -1,0 +1,4 @@
+Filename,BubbleSortTime(ms),MergeSortTime(ms)
+sort10.txt,0,0
+sort100.txt,3,0
+sort10000.txt,6907,29
